@@ -27,7 +27,7 @@ Download the Repo and run on your Local machine.
 ---
 
 The application is also live on HEROKU
-<a href="https://dashboard.heroku.com/apps/note-taker-adam-cleland/deploy/github"> Click me to be re-directed to the live site. </a>
+<a href="https://note-taker-adam-cleland.herokuapp.com/"> Click me to be re-directed to the live site. </a>
 
 ## Screenshots
 
